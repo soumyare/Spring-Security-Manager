@@ -1,0 +1,9 @@
+com\example\SpringSecurityManager\exceptions\UserNotFoundException.class
+com\example\SpringSecurityManager\controllers\AppErrorController.class
+com\example\SpringSecurityManager\entities\User.class
+com\example\SpringSecurityManager\controllers\MainController.class
+com\example\SpringSecurityManager\controllers\UserController.class
+com\example\SpringSecurityManager\UserManagerApplication.class
+com\example\SpringSecurityManager\repositories\UserRepository.class
+com\example\SpringSecurityManager\controllers\UserExceptionController.class
+com\example\SpringSecurityManager\services\UserService.class
